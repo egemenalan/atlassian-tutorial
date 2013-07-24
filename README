@@ -2,4 +2,4 @@ This example shows an Atlassian JIRA plugin that adds a simple custom field to J
 
 For a complete description of the example, along with the steps to create it, see the tutorial at: 
 
-https://developer.atlassian.com/display/JIRADEV/Creating+a+Custom+Field+in+JIRA
+https://developer.atlassian.com/display/JIRADEV/Custom+Fields+in+JIRA
